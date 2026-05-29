@@ -10,3 +10,4 @@ application.macosx
 out
 node_modules
 dist
+*.tsbuildinfo
